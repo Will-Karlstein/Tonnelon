@@ -1,3 +1,17 @@
-Yaml
-
 theme: jekyll-theme-merlot
+
+title: "Verein XYZ"
+description: "Offizielle Informationsseite unseres Vereins"
+show_downloads: false
+
+# Optional: Navigation (falls du später mehrere Seiten hast)
+# Einfach auskommentieren, wenn du es nicht brauchst
+# navigation:
+#   - title: "Start"
+#     url: /
+#   - title: "Vorstand"
+#     url: /vorstand.html
+#   - title: "Termine"
+#     url: /termine.html
+#   - title: "Kontakt"
+#     url: /kontakt.html
